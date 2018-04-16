@@ -1,0 +1,22 @@
+.slider {
+  text-shadow: 2px 2px 8px black;
+}
+
+.section-search h3 {
+  text-shadow: 2px 2px 8px black;
+}
+
+.section-search input {
+  padding: 5px !important;
+  font-size: 18px !important;
+  width: 90% !important;
+  border: #f4f4f4 3px solid !important;
+}
+
+.section-follow h4{
+  text-shadow: 2px 2px 8px black;
+}
+
+.section-follow .fa-4x {
+  margin: 5px 10px;
+}
